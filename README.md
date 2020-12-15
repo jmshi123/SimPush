@@ -13,7 +13,7 @@ Please cite our papers if you choose to use our code.
                Yin Yang},
   title     = {Realtime Index-Free Single Source SimRank Processing on Web-Scale
                Graphs},
-  journal   = {Proc. {VLDB} Endow.},
+  journal   = {PVLDB},
   volume    = {13},
   number    = {7},
   pages     = {966--978},
