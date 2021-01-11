@@ -28,6 +28,7 @@ Please cite our papers if you choose to use our code.
 
 ### Run:
 make
+
 ./simpush -f dblp -qn 50
 
 ### Evaluation:
