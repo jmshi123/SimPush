@@ -1,6 +1,6 @@
-## Realtime Index-Free Single Source SimRank Processing on Web-Scale Graphs PVLDB2020
+### Realtime Index-Free Single Source SimRank Processing on Web-Scale Graphs PVLDB2020
 
-### NOTE: please click Releases and download simpush-release-code.zip to get the code with dblp dataset.
+## NOTE: please click Releases and download simpush-release-code.zip to get the code with dblp dataset.
 
 Please cite our papers if you choose to use our code.
 
